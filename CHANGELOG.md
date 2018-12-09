@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.1.0 - 2018-12-09
+### Changed
+- Updated for Redactor 2.x
+
 ## 2.0.4 - 2015-12-06
 
 ### Fixed
