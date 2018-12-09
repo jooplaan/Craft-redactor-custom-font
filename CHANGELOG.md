@@ -4,17 +4,17 @@
 ### Changed
 - Updated for Redactor 2.x
 
-## 2.0.4 - 2015-12-06
+## 2.0.4 - 2017-12-06
 
 ### Fixed
 - Fix Packagist update
 
-## 2.0.3 - 2015-12-06
+## 2.0.3 - 2017-12-06
 
 ### Changed
 - Updated Craft3 requirements
 
-## 2.0.2 - 2015-12-06
+## 2.0.2 - 2017-12-06
 
 ### Changed
 - Updated for Craft3 RC1
@@ -22,7 +22,7 @@
 ### Added 
 - Added german translation
 
-## 2.0.1 - 2015-11-25
+## 2.0.1 - 2017-11-25
 
 ### Added 
 - Added icon
