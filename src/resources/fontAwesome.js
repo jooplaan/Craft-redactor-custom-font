@@ -17,7 +17,7 @@
             this.button = this.toolbar.addButton('fontAwesome', {
                 title: Craft.t('redactor-font-awesome', 'Font Awesome icons'),
                 api: 'plugin.fontAwesome.open',
-                icon: '<i class="fa fa-smile-o"</i>'
+                icon: '<i class="fa fa-smile-o"></i>'
             });
         },
         modals: {
