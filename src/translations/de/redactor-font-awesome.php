@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'Font Awesome icons' => 'Font Awesome Icons',
+    'Custom font icons' => 'Custom font Icons',
     'Search for icons' => 'Nach Icons suchen',
     'Insert' => 'Einfügen',
     'Cancel' => 'Abbrechen',

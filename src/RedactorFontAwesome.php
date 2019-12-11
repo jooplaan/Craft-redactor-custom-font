@@ -1,6 +1,6 @@
 <?php
 
-namespace svenjungnickel\redactorfontawesome;
+namespace jooplaan\redactorcustomfont;
 
 use Craft;
 use craft\base\Plugin;
@@ -8,7 +8,7 @@ use craft\redactor\events\RegisterPluginPathsEvent;
 use craft\redactor\Field;
 use yii\base\Event;
 
-class RedactorFontAwesome extends Plugin
+class RedactorCustomFont extends Plugin
 {
     // Static Properties
     // =========================================================================

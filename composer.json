@@ -1,23 +1,23 @@
 {
-  "name": "svenjungnickel/redactor-font-awesome",
-  "description": "Craft redactor font awesome plugin for Craft 3",
+  "name": "jooplaan/redactor-custom-font",
+  "description": "Craft redactor custom font plugin for Craft 3",
   "type": "craft-plugin",
   "keywords": [
     "craft",
     "cms",
     "craftcms",
     "craft-plugin",
-    "redactorfontawesome"
+    "redactorcustomfont"
   ],
   "support": {
-    "docs": "https://github.com/svenjungnickel/craft-redactor-font-awesome/blob/master/README.md",
-    "issues": "https://github.com/svenjungnickel/craft-redactor-font-awesome/issues"
+    "docs": "https://github.com/jooplaan/craft-redactor-custom-font/blob/master/README.md",
+    "issues": "https://github.com/jooplaan/craft-redactor-custom-font/issues"
   },
   "license": "MIT",
   "authors": [
     {
-      "name": "Sven Jungnickel",
-      "homepage": "https://github.com/svenjungnickel"
+      "name": "Joop Laan",
+      "homepage": "https://github.com/jooplaan"
     }
   ],
   "require": {
@@ -32,20 +32,20 @@
   ],
   "autoload": {
     "psr-4": {
-      "svenjungnickel\\redactorfontawesome\\": "src/"
+      "jooplaan\\redactorcustomfont\\": "src/"
     }
   },
   "extra": {
-    "name": "Redactor Font Awesome",
-    "handle": "redactor-font-awesome",
-    "developer": "Sven Jungnickel",
-    "developerUrl": "https://github.com/svenjungnickel/",
+    "name": "Redactor Custom font",
+    "handle": "redactor-custom-font",
+    "developer": "Joop Laan",
+    "developerUrl": "https://github.com/jooplaan/",
     "schemaVersion": "2.0",
-    "description": "Craft redactor font awesome plugin for Craft 3",
+    "description": "Craft redactor custom font plugin for Craft 3",
     "hasCpSettings": false,
     "hasCpSection": false,
-    "documentationUrl": "https://github.com/svenjungnickel/craft-redactor-font-awesome/blob/master/README.md",
-    "changelogUrl": "https://github.com/svenjungnickel/craft-redactor-font-awesome/blob/master/CHANGELOG.md",
-    "class": "svenjungnickel\\redactorfontawesome\\RedactorFontAwesome"
+    "documentationUrl": "https://github.com/jooplaan/craft-redactor-custom-font/blob/master/README.md",
+    "changelogUrl": "https://github.com/jooplaan/craft-redactor-custom-font/blob/master/CHANGELOG.md",
+    "class": "jooplaan\\redactorcustomfont\\RedactorCustomFont"
   }
 }
